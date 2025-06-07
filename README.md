@@ -41,5 +41,5 @@ Each insight is visualized through interactive charts, KPIs, and filters for int
 
 ---
 
-## 📁 Project Structure
+
 
